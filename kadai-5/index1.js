@@ -1,11 +1,10 @@
 const profile = {
-  firstName: "Ryo",
-  familyName: "Kamata",
-  age: 34,
-  major: "Computer Science",
-  hobby: "Fitness",
-  job: "teacher",
-  families: "2 cats"
+  firstName: "Yuto",
+  familyName: "OkaOka",
+  age: 21,
+  major: "Japanese",
+  hobby: "Game",
+  job: "Student",
 };
 
 const keys = Object.keys(profile);

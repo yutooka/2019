@@ -3,7 +3,7 @@ setTimeout(
         console.log('Hello!')
         setTimeout(
             ()=>{
-                console.log('Bye!')
+                console.log('Bye')
             },
             2000
          )
